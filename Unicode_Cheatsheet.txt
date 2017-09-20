@@ -62,6 +62,8 @@ Kreuz:						†		U+2020
 Parenthesenklammern:				⌊		U+230A
 						⌉		U+2309
 
+Gravis als "backtick"				`		U+0060
+
 Halbklammern für interlinear überschrieben:
 						˻		U+2FB
 						˼		U+2FC
