@@ -14,25 +14,26 @@ u mit Punkt drunter				ụ		U+1EE5
 kleines æ					æ		U+00E6
 großes Æ					Æ		U+00C6
 
+
 Kombinierende Diakritka
 Akut						á		U+0301
 Bogen 	drüber offen nach oben			ă		U+0306
 Punkt drüber					ȧ		U+0307
 Kringel drüber					å		U+030A
 Bogen drüber unten offen			ȃ		U+0311
-Doppelpunkt drüber				ï		U+0308
 Gravis drunter					u̖		U+0316
 Akut drunter					u̗		U+0317
 Tilde / Zirkumflex				ẽ		U+0303
 Doppelte Vertikale Linie über Buchstaben	V̎		U+030E
 combining hook above				ủ		U+0309
-kleines e drüber				uͤ		U+0364
+Haček drüber					ǧ		U+030C 
+Gerader Strich drüber				c̍		U+030D
 
 Konsonanten
-l mit Strich durch klein ł			ł		U+0142
 kleines langes z				ʒ		U+0292(unter Vorbehalt) ← das nimmt Sarah auch
 Alternativ: 					ᴣ		U+1D23
 kleines langes s				ſ		U+017F
+
 
 1. Konsonanten modern
 Zeichen			auf Tastatur		mit Unicode	Code
@@ -43,6 +44,9 @@ S mit Haček		Š			Š		U+0160
 s mit Haček		š			š		U+0161
 Z mit Haček		Ž			Ž		U+017D
 z mit Haček		ž			ž		U+017E
+r mit Haček					ř		U+0159
+c mit Cedille klein				ç		U+00E7
+l mit Strich durch klein ł			ł		U+0142
 
 2. Vokale modern
 A mit Nasalzeichen	Ą			Ą		U+0104
@@ -55,14 +59,22 @@ I mit Nasalzeichen	Į			Į		U+012E
 i mit Nasalzeichen	į			į		U+012F
 u nosinė		ų			ų		U+0173
 u mit Längenstrich	ū			ū		U+016B
+kleines dän. ø					ø		U+00F8
+
+Interpunktionszeichen [deutsch] [Auswahl]
+Schließendes doppeltes  Guillemet		«		U+00AB
+Öffnendes doppeltes Guillemet			»		U+00BB
+Anführungszeichen doppelt öffnend		„		U+201E
+Anführungszeichen doppelt schließend		“		U+201C
+Anführungsz. einf. öffnend			‚		U+201A
+Anführungsz. einf. schließend			‘		U+2018
+
 
 
 Andere Zeichen:
 Kreuz:						†		U+2020
 Parenthesenklammern:				⌊		U+230A
 						⌉		U+2309
-
-Gravis als "backtick"				`		U+0060
 
 Halbklammern für interlinear überschrieben:
 						˻		U+2FB
@@ -71,7 +83,7 @@ Halbklammern für interlinear überschrieben:
 						˹		U+2F9
 						˺		U+2FA
 
-c mit Cedille klein				ç		U+00E7
+
 
 Logik-, Mathe- und DBS-Symbole:
 
