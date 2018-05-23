@@ -21,6 +21,7 @@ Bogen 	drüber offen nach oben			ă		U+0306
 Punkt drüber					ȧ		U+0307
 Kringel drüber					å		U+030A
 Bogen drüber unten offen			ȃ		U+0311
+Kleines e drüber				uͤ		U+0364
 Gravis drunter					u̖		U+0316
 Akut drunter					u̗		U+0317
 Tilde / Zirkumflex				ẽ		U+0303
@@ -68,6 +69,8 @@ Anführungszeichen doppelt öffnend		„		U+201E
 Anführungszeichen doppelt schließend		“		U+201C
 Anführungsz. einf. öffnend			‚		U+201A
 Anführungsz. einf. schließend			‘		U+2018
+spitze Klammer öffnend				⟨		U+27E8	U+10216
+spitze Klammer schließend			⟩		U+27E9	U+10217
 
 
 
@@ -99,5 +102,7 @@ Vereinigung					⋃					U+22C3
 ist Ungleich				≠					U+2260
 
 Gamma								𝛶				U+1D6F6
+Beta klein					β					U+03B2
+Beta klein subscript		xᵦ					U+1D66
 
 
