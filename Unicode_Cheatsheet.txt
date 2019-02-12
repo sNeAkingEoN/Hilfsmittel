@@ -24,11 +24,13 @@ Bogen drüber unten offen			ȃ		U+0311
 Kleines e drüber				uͤ		U+0364
 Gravis drunter					u̖		U+0316
 Akut drunter					u̗		U+0317
-Tilde / Zirkumflex				ẽ		U+0303
+Tilde						ẽ		U+0303
 Doppelte Vertikale Linie über Buchstaben	V̎		U+030E
 combining hook above				ủ		U+0309
 Haček drüber					ǧ		U+030C 
 Gerader Strich drüber				c̍		U+030D
+Trema						ë		U+0308
+Zirkumflex					û		U+0302
 
 Konsonanten
 kleines langes z				ʒ		U+0292(unter Vorbehalt) ← das nimmt Sarah auch
