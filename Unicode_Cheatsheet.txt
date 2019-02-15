@@ -19,6 +19,7 @@ Kombinierende Diakritka
 Akut						á		U+0301
 Bogen 	drüber offen nach oben			ă		U+0306
 Punkt drüber					ȧ		U+0307
+Punkt drunter					ạ		U+0323
 Kringel drüber					å		U+030A
 Bogen drüber unten offen			ȃ		U+0311
 Kleines e drüber				uͤ		U+0364
