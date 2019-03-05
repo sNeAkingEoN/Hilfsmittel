@@ -68,6 +68,8 @@ kleines dän. ø					ø		U+00F8
 Interpunktionszeichen [deutsch] [Auswahl]
 Schließendes doppeltes  Guillemet		«		U+00AB
 Öffnendes doppeltes Guillemet			»		U+00BB
+Einfaches Guillemet schließend 			‹		U+2039
+Einfaches Guillemet öffnend			›		U+203A
 Anführungszeichen doppelt öffnend		„		U+201E
 Anführungszeichen doppelt schließend		“		U+201C
 Anführungsz. einf. öffnend			‚		U+201A
