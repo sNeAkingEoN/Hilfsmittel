@@ -64,6 +64,8 @@ i mit Nasalzeichen	į			į		U+012F
 u nosinė		ų			ų		U+0173
 u mit Längenstrich	ū			ū		U+016B
 kleines dän. ø					ø		U+00F8
+o e collé					œ		U+0153
+e-Schwa (lower case, latin)			ə		U+0259
 
 Interpunktionszeichen [deutsch] [Auswahl]
 Schließendes doppeltes  Guillemet		«		U+00AB
